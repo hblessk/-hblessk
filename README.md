@@ -1,9 +1,9 @@
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
-# **Machine Learning Engineer** 👋
+**Machine Learning Engineer** 👋
 
-# **Interest**
+**Interest**
 
 MLOps(Machine Learing Operation - Especially, ML/DL Model Production)
 Google Cloud Platform(Especially, BigQuery)
