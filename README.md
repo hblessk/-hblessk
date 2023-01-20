@@ -15,13 +15,3 @@ I hope to develop every beautiful things.
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
 
-**Interest**👋
-
-예시)
--MLOps(Machine Learing Operation - Especially, ML/DL Model Production)
--Google Cloud Platform(Especially, BigQuery)
--Operation Research
--Leadership, Mentoring, Writing, Presentation
-
-
-
