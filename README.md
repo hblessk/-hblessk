@@ -8,5 +8,5 @@
 -Operation Research
 -Leadership, Mentoring, Writing, Presentation
 
-[텍스트]([링크 주소](https://gyung1777.tistory.com/))
+[텍스트]([블로그](https://gyung1777.tistory.com/))
 
