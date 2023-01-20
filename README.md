@@ -4,7 +4,7 @@ I hope to develop every beautiful things.
 
 <img src="https://img.shields.io/badge/Tstory-000000?style=flat-square&logo=Tstory&logoColor=white"/> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
-### **💪Skills**
+### **Skills**💪
 
 **Platforms & Languages**
 
